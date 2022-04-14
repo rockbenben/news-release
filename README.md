@@ -34,9 +34,12 @@
 
    ![](http://tc.seoipo.com/20191227135725.png)
 
-3. 联系客服 [![qq](http://tc.seoipo.com/qq.png)](http://wpa.qq.com/msgrd?v=3&uin=244538479&site=qq&menu=yes)，开通平台权限，即时开始发布新闻。
+3. 联系下方微信客服或 [![qq](http://tc.seoipo.com/qq.png)](http://wpa.qq.com/msgrd?v=3&uin=244538479&site=qq&menu=yes)，开通平台权限，即时开始发布新闻。
 
-   ![](http://tc.seoipo.com/20210331124023.png)
+   ![weixin](http://tc.seoipo.com/20191022150417.jpg)
+
+4. 发稿流程
+   ![发稿流程](http://tc.seoipo.com/20210331124023.png)
 
 ## 界面说明
 
