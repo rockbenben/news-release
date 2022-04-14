@@ -27,7 +27,8 @@
 ## 账户开通
 
 1. 注册 [**诺一品宣平台账户**](http://www.brandipo.com/)；
-<img src="http://tc.seoipo.com/20210122163314.png" width = "30%" />
+
+   <img src="http://tc.seoipo.com/20210122163314.png" width = "30%" />
 
 2. 登录平台并打开 [**营销资源库**](http://www.brandipo.com/adm/adm_start_announce?pageType=media)，找到合适自己的媒体资源，查看实时费用；
 
