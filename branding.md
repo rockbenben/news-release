@@ -6,13 +6,16 @@
 ## 品宣渠道
 
 1. [**企业百科**](http://www.brandipo.com/adm/model_media/createModelMedia?pageType=media)：在百度百科、搜狐百科、维基百科上建立品牌形象。
-![](http://tc.seoipo.com/20210331183523.png)
+
+   ![](http://tc.seoipo.com/20210331183523.png)
 
 2. [**问答营销**](http://www.brandipo.com/adm/model_media/createModelMediaWenDa?pageType=media) & [**获客宝**](http://www.brandipo.com/adm/wen_da_fa_bu?newSign=top&pageType=media)：在百度知道、新浪爱问、天涯问答上发布企业信息问答，通过精准关键词获客。
-![](http://tc.seoipo.com/20210331185405.png)
+
+   ![](http://tc.seoipo.com/20210331185405.png)
 
 3. [**新闻媒体**](http://www.brandipo.com/adm/adm_start_announce?pageType=media)、自媒体、KOL 有利于引导市场消费，快速扩大品牌影响力，提高品牌公信力。
-![](http://tc.seoipo.com/20210331185739.png)
+
+   ![](http://tc.seoipo.com/20210331185739.png)
 
 4. **SEO 优化**：官网排名能带来更好的曝光和精准流量，让客户通过行业关键词来搜索到你。
 
