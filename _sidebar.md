@@ -17,11 +17,12 @@
   - [4.「退稿」原因汇总](faq/how-to-avoid-withdrawal)
 
 * **Links**
-* [![发稿平台](https://www.seoipo.com/svg/logo_16.svg)诺一发稿平台](http://www.brandipo.com)
-* [![品宣资源表 | 参考](https://www.seoipo.com/svg/download.svg)诺一品宣价格表](http://ziyuan.seoipo.com/%E8%AF%BA%E4%B8%80%E5%93%81%E5%AE%A3%E8%B5%84%E6%BA%90%E8%A1%A8.xlsx)
+
+- [![发稿平台](https://www.seoipo.com/svg/logo_16.svg)诺一发稿平台](http://www.brandipo.com)
+- [![品宣资源表 | 参考](https://www.seoipo.com/svg/download.svg)诺一品宣价格表](http://ziyuan.seoipo.com/%E8%AF%BA%E4%B8%80%E5%93%81%E5%AE%A3%E8%B5%84%E6%BA%90%E8%A1%A8.xlsx)
 
 <br/>
-更多推广联系客服：
+更多推广，联系客服：
 
-* [![qq](http://tc.seoipo.com/qq.png)](http://wpa.qq.com/msgrd?v=3&uin=244538479&site=qq&menu=yes)
-* ![weixin](http://tc.seoipo.com/20191022150417.jpg)
+- [![qq](http://tc.seoipo.com/qq.png)](http://wpa.qq.com/msgrd?v=3&uin=244538479&site=qq&menu=yes)
+- ![weixin](http://tc.seoipo.com/20191022150417.jpg)
