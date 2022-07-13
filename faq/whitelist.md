@@ -1,9 +1,10 @@
 # 白名单｜正规来源媒体发布
 
 ---
+
 白名单来源，又称**正规来源**，是国家互联网信息办公室公布的**可供网站转载新闻的新闻媒体**。
 
-对于备注有「**需要白名单来源**」、「**需要正规来源**」的媒体，我们必须先在白名单媒体中任选一家发布即可。
+对于备注有「需要白名单来源」、「需要正规来源」的媒体，我们必须先在白名单媒体中任选一家发布即可。
 
 ![](http://tc.seoipo.com/20210401152528.png)
 
@@ -12,6 +13,7 @@
 <img src="http://tc.seoipo.com/20180622233502.png"/>
 
 **白名单具体名录** 如下：
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
