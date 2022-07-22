@@ -19,6 +19,21 @@ export default defineUserConfig({
         content: "新闻发稿,品牌宣传,网络媒体,新媒体发稿",
       },
     ],
+    [
+      "img",
+      {
+        name: "referrerpolicy",
+        content: "no-referrer-when-downgrade",
+      },
+      {
+        name: "src",
+        content: "https://piwik.seoipo.com/matomo.php?idsite=4&amp;rec=1",
+      },
+      {
+        name: "style",
+        content: "border:0",
+      },
+    ],
   ],
 
   theme,
