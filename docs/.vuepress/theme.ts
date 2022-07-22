@@ -29,6 +29,7 @@ export default hopeTheme({
     green: "#3eaf7c",
     orange: "#fb9b5f",
   },
+  fullscreen: true,
 
   // 默认为 GitHub. 同时也可以是一个完整的 URL
   //repo: "vuepress-theme-hope/vuepress-theme-hope",
