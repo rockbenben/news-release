@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://www.seoipo.com/info/news-release/sitemap.xml
