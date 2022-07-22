@@ -48,8 +48,8 @@ jobs:
       - name: copy file
         uses: canastro/copy-file-action@master
         with:
-          source: "./docs/README.md"
-          target: "./README.md"
+          source: "docs/README.md"
+          target: "/README.md"
 
       - name: Copy
         uses: andstor/copycat-action@v3
