@@ -45,17 +45,18 @@ jobs:
           branch: gh-pages
           folder: docs/.vuepress/dist
 
-      - name: Copy
+      #复制前删除目标文档，能识别文档是否有改变
+      - name: Copy file
         uses: andstor/copycat-action@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           src_path: docs/README.md
-          dst_path: README.md
+          dst_path: /
           dst_owner: rockbenben
           dst_repo_name: news-release
           dst_branch: main
           src_branch: main
-          clean: true
+          #clean: true
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
