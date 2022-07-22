@@ -55,6 +55,7 @@ jobs:
           dst_repo_name: news-release
           dst_branch: main
           src_branch: main
+          clean: true
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
