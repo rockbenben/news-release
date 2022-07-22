@@ -45,12 +45,6 @@ jobs:
           branch: gh-pages
           folder: docs/.vuepress/dist
 
-      - name: copy file
-        uses: canastro/copy-file-action@master
-        with:
-          source: "docs/README.md"
-          target: "/README.md"
-
       - name: Copy
         uses: andstor/copycat-action@v3
         with:
@@ -59,6 +53,8 @@ jobs:
           dst_path: README.md
           dst_owner: rockbenben
           dst_repo_name: news-release
+          dst_branch: main
+          src_branch: main
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
