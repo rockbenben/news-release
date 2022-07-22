@@ -45,7 +45,7 @@ jobs:
           branch: gh-pages
           folder: docs/.vuepress/dist
 
-      #复制前删除目标文档，能识别文档是否有改变
+      #复制文件到目的地，文档没变化则不会复制
       - name: Copy file
         uses: andstor/copycat-action@v3
         with:
