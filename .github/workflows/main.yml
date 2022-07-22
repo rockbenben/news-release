@@ -48,8 +48,17 @@ jobs:
       - name: copy file
         uses: canastro/copy-file-action@master
         with:
-          source: "docs/README.md"
-          target: "README.md"
+          source: "./docs/README.md"
+          target: "./README.md"
+
+      - name: Copy
+        uses: andstor/copycat-action@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          src_path: docs/README.md
+          dst_path: README.md
+          dst_owner: rockbenben
+          dst_repo_name: news-release
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
